@@ -1,3 +1,10 @@
+# Data Storage
+data/*
+res/*
+
+#OSX
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
